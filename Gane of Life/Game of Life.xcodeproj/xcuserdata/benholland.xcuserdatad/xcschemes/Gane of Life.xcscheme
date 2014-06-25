@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6F6EEB2D195B819B000FFB3A"
                BuildableName = "Gane of Life"
-               BlueprintName = "Gane of Life"
-               ReferencedContainer = "container:Gane of Life.xcodeproj">
+               BlueprintName = "Game of Life"
+               ReferencedContainer = "container:Game of Life.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,8 +34,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F6EEB2D195B819B000FFB3A"
             BuildableName = "Gane of Life"
-            BlueprintName = "Gane of Life"
-            ReferencedContainer = "container:Gane of Life.xcodeproj">
+            BlueprintName = "Game of Life"
+            ReferencedContainer = "container:Game of Life.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -53,8 +53,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F6EEB2D195B819B000FFB3A"
             BuildableName = "Gane of Life"
-            BlueprintName = "Gane of Life"
-            ReferencedContainer = "container:Gane of Life.xcodeproj">
+            BlueprintName = "Game of Life"
+            ReferencedContainer = "container:Game of Life.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -71,8 +71,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6F6EEB2D195B819B000FFB3A"
             BuildableName = "Gane of Life"
-            BlueprintName = "Gane of Life"
-            ReferencedContainer = "container:Gane of Life.xcodeproj">
+            BlueprintName = "Game of Life"
+            ReferencedContainer = "container:Game of Life.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

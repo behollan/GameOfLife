@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6F6EEB32195B819B000FFB3A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 6F6EEB31195B819B000FFB3A /* main.cpp */; };
-		6F6EEB34195B819B000FFB3A /* Gane_of_Life.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6F6EEB33195B819B000FFB3A /* Gane_of_Life.1 */; };
+		6F6EEB34195B819B000FFB3A /* Game_of_Life.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 6F6EEB33195B819B000FFB3A /* Game_of_Life.1 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -18,16 +18,16 @@
 			dstPath = /usr/share/man/man1/;
 			dstSubfolderSpec = 0;
 			files = (
-				6F6EEB34195B819B000FFB3A /* Gane_of_Life.1 in CopyFiles */,
+				6F6EEB34195B819B000FFB3A /* Game_of_Life.1 in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		6F6EEB2E195B819B000FFB3A /* Gane of Life */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Gane of Life"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F6EEB2E195B819B000FFB3A /* Game of Life */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Game of Life"; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F6EEB31195B819B000FFB3A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		6F6EEB33195B819B000FFB3A /* Gane_of_Life.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Gane_of_Life.1; sourceTree = "<group>"; };
+		6F6EEB33195B819B000FFB3A /* Game_of_Life.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Game_of_Life.1; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,7 +44,7 @@
 		6F6EEB25195B819B000FFB3A = {
 			isa = PBXGroup;
 			children = (
-				6F6EEB30195B819B000FFB3A /* Gane of Life */,
+				6F6EEB30195B819B000FFB3A /* Game of Life */,
 				6F6EEB2F195B819B000FFB3A /* Products */,
 			);
 			sourceTree = "<group>";
@@ -52,26 +52,27 @@
 		6F6EEB2F195B819B000FFB3A /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F6EEB2E195B819B000FFB3A /* Gane of Life */,
+				6F6EEB2E195B819B000FFB3A /* Game of Life */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6F6EEB30195B819B000FFB3A /* Gane of Life */ = {
+		6F6EEB30195B819B000FFB3A /* Game of Life */ = {
 			isa = PBXGroup;
 			children = (
 				6F6EEB31195B819B000FFB3A /* main.cpp */,
-				6F6EEB33195B819B000FFB3A /* Gane_of_Life.1 */,
+				6F6EEB33195B819B000FFB3A /* Game_of_Life.1 */,
 			);
+			name = "Game of Life";
 			path = "Gane of Life";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		6F6EEB2D195B819B000FFB3A /* Gane of Life */ = {
+		6F6EEB2D195B819B000FFB3A /* Game of Life */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F6EEB37195B819B000FFB3A /* Build configuration list for PBXNativeTarget "Gane of Life" */;
+			buildConfigurationList = 6F6EEB37195B819B000FFB3A /* Build configuration list for PBXNativeTarget "Game of Life" */;
 			buildPhases = (
 				6F6EEB2A195B819B000FFB3A /* Sources */,
 				6F6EEB2B195B819B000FFB3A /* Frameworks */,
@@ -81,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Gane of Life";
+			name = "Game of Life";
 			productName = "Gane of Life";
-			productReference = 6F6EEB2E195B819B000FFB3A /* Gane of Life */;
+			productReference = 6F6EEB2E195B819B000FFB3A /* Game of Life */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -95,7 +96,7 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "GBJ INC";
 			};
-			buildConfigurationList = 6F6EEB29195B819B000FFB3A /* Build configuration list for PBXProject "Gane of Life" */;
+			buildConfigurationList = 6F6EEB29195B819B000FFB3A /* Build configuration list for PBXProject "Game of Life" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -107,7 +108,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6F6EEB2D195B819B000FFB3A /* Gane of Life */,
+				6F6EEB2D195B819B000FFB3A /* Game of Life */,
 			);
 		};
 /* End PBXProject section */
@@ -197,21 +198,21 @@
 		6F6EEB38195B819B000FFB3A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Game of Life";
 			};
 			name = Debug;
 		};
 		6F6EEB39195B819B000FFB3A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "Game of Life";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F6EEB29195B819B000FFB3A /* Build configuration list for PBXProject "Gane of Life" */ = {
+		6F6EEB29195B819B000FFB3A /* Build configuration list for PBXProject "Game of Life" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F6EEB35195B819B000FFB3A /* Debug */,
@@ -220,13 +221,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F6EEB37195B819B000FFB3A /* Build configuration list for PBXNativeTarget "Gane of Life" */ = {
+		6F6EEB37195B819B000FFB3A /* Build configuration list for PBXNativeTarget "Game of Life" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6F6EEB38195B819B000FFB3A /* Debug */,
 				6F6EEB39195B819B000FFB3A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
