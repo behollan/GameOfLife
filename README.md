@@ -1,3 +1,5 @@
+Conway's Game of Life
+=====
 
 Written By:
 =====
@@ -7,6 +9,7 @@ Joe Gibson, Colorado School of Mines, Engineering Physics
 
 Gabe Hintz, Undecided
 
+About:
 ======
 
   Conway's Game of Life is a simulator that was created with the intention to predict population growth and decay. Despite many of the complexities that encompass 'Life', Conway came up with these few simple rules:
