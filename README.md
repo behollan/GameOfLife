@@ -1,19 +1,10 @@
-  ______         ___      
-//@@@@@@\\      //@\\     ||\\    //|| ||@@@@@    @@@@   @@@@@@  ||      || ||@@@@@ ||@@@@@
-||             //   \\    || \\  // || ||       @     @  @       ||      || ||      ||
-||  @@@@@\    //@@@@@\\   ||  \\//  || ||@@@    @     @  @@@     ||      || ||@@    ||@@@
-||      ||   //       \\  ||        || ||       @     @  @       ||      || ||      ||
-\\======//  //         \\ ||        || ||@@@@@    @@@@   @       ||@@@@@ || ||      ||@@@@@
 
-=+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=+=+=+=+=+=+=+==+=+=+=+=
+Written By:
+Ben Holland, Colorado School of Mines, Engineering Physics
+Joe Gibson, Colorado School of Mines, Engineering Physics
+Gabe Hintz, Undecided
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-/\Written By:                                               /\
-/\Ben Holland, Colorado School of Mines, Engineering Physics/\
-/\Joe Gibson, Colorado School of Mines, Engineering Physics /\
-/\Gabe Hintz, Undecided                                     /\
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-============================================================================================================================
+======
 
   Conway's Game of Life is a simulator that was created with the intention to predict population growth and decay. Despite many of the complexities that encompass 'Life', Conway came up with these few simple rules:
 
