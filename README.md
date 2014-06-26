@@ -4,9 +4,7 @@ Conway's Game of Life
 Written By:
 =====
 Ben Holland, Colorado School of Mines, Engineering Physics
-
 Joe Gibson, Colorado School of Mines, Engineering Physics
-
 Gabe Hintz, Undecided
 
 About:
